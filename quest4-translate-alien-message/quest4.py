@@ -1,5 +1,7 @@
 import boto3
 
+#Funtion to Invoke Lambda Function
+
 def RunLambdaFuntion(function, payload):
     client = boto3.client('lambda', region_name='ap-southeast-1')
     response = client.invoke(
