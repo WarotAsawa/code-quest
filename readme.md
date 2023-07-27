@@ -18,6 +18,11 @@ You are on a quest to find a shiny diamond, hiding among the stones in a S3 buck
 - **S3 Bucket Name**: `cloudday-bkk-code-whisperer`
 - **AWS Region**: `ap-southeast-1`
 
+After finish writing the code, you can test the result using command below.
+
+    python quest1-shine-bright-like-a-diamond/quest1.py
+
+##### *Quest1 diagram*
 ![diagram-1](./img/diagram-1.png)
 
 
@@ -32,6 +37,12 @@ You are on a quest to defuse the bomb. The bomb is stored inside the zip file na
 - **AWS Region**: `ap-southeast-1`
 - **Bomb Zip file name**: `i-am-a-bomb.zip`
 
+After finish writing the code, you can test the result using command below.
+
+    python quest2-defuse-the-bomb/quest2.py
+
+
+##### *Quest2 diagram*
 ![diagram-2](./img/diagram-2.png)
 
 
@@ -47,6 +58,12 @@ You need to ask Mr.Shiba his age, but he is an introvert, so he talk less. Your 
 - **Key** : `name`
 - **Value** : `shiba`
 
+After finish writing the code, you can test the result using command below.
+
+    python quest3-how-old-is-shiba/quest3.py
+
+
+##### *Quest3 diagram*
 ![diagram-3](./img/diagram-3.png)
 
 
@@ -65,6 +82,12 @@ Your task is to translate what alien try to communicate. Luckly, we have a Lambd
 - **AWS Region**: `ap-southeast-1`
 - **Payload** : `"{\"message\": \"aovmywo*~y*Mvyn*Nkƒ*B~r7B\"}"`
 
+After finish writing the code, you can test the result using command below.
+
+    python quest4-translate-alien-message/quest4.py
+
+
+##### *Quest4 diagram*
 ![diagram-4](./img/diagram-4.png)
 
 
@@ -79,6 +102,11 @@ You send your greeting message to the world. We prepare a Slack Chanel so you ca
 - **AWS Region**: `ap-southeast-1`
 - **Subject** : `Hello World`
 
+After finish writing the code, you can test the result using command below.
+
+    python quest4-hello-world/quest5.py
+
+##### *Quest5 diagram*
 ![diagram-5](./img/diagram-5.png)
 
 
