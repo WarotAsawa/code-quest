@@ -7,7 +7,63 @@ Welcome adventurers to the Code Quest ! You are an adventurer going on the quest
 - **Tool:** Visual Studio Code
 - **Companion:** CodeWhisperer
 
+# Prerequisite!
 
+Here is the list of required resource you need before getting started.
+- Visual Studio Code
+- Git
+- AWS CLI version 2
+- Python 3.10.5 at least
+- PIP3
+- AWS boto3
+
+## Visual Studio Code
+You need **Visual Studio Code** to run this quest. If you do not have one, you can download it here. https://code.visualstudio.com/download 
+
+## Git
+You also need you Git to clone the repository in to your computer. You can download your git here.
+https://git-scm.com/downloads 
+
+## AWS CLI Version 2
+You also need AWS CLI. Please download and get it ready!
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html 
+
+After download you can run to check to version of AWS CLI. It should be at least *aws-cli/2.7.0*
+
+`aws --version`
+
+## Python3 and Pip3
+You need Python3 to finish the quest. You can download it here. 
+https://www.python.org/downloads/
+
+After download you can run to check to version of Python3. It should be at least *3.10.x*
+
+`python3 --version`
+
+After you get Python3. Now install PIP3.
+
+```
+curl -O https://bootstrap.pypa.io/get-pip.py
+python3 get-pip.py --user
+```
+
+Show your PIP version to verify that PIP is installed successfully.
+
+`pip3 --version`
+
+## AWS Boto3
+Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2. You can find the latest, most up to date, documentation at our doc site, including a list of services that are supported.
+
+To install boto3, simply run this command to use pip to install boto3.
+
+`pip install boto3`
+
+You can learn more about boto3 and alternative way to install using this link.
+https://pypi.org/project/boto3/ 
+
+
+
+# CloudQuest
 
 ## Quest 1: Shine bright like a diamond!
 
