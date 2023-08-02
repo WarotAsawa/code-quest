@@ -7,6 +7,15 @@ Welcome adventurers to the Code Quest ! You are an adventurer going on the quest
 - **Tool:** Visual Studio Code
 - **Companion:** CodeWhisperer
 
+You will be on quest, solving problems using AWS services. There are totol of 5 quests listed as below.
+The quest is not in sequential order, so you can do any one first.
+
+- Quest 1: Shine bright like a diamond!
+- Quest 2: Bomb defuser
+- Quest 3: How old is Mr. Shiba?
+- Quest 4: Translate alien's message
+- Quest 5: Hello World!
+
 # Prerequisite!
 
 Here is the list of required resource you need before getting started.
@@ -63,7 +72,9 @@ Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python
 
 To install boto3, simply run this command to use pip to install boto3.
 
-`pip install boto3`
+```bash
+pip install boto3
+```
 
 You can learn more about boto3 and alternative way to install using this link.
 https://pypi.org/project/boto3/ 
