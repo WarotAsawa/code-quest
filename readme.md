@@ -189,7 +189,7 @@ If you can get the password, use `unzip` command to unzip `i-am-a-bomb.zip` file
 unzip quest2-defuse-the-bomb/i-am-a-bomb.zip
 ```
 
-After you unzip, you will get `defuse-me.webp` file. You will know why we call this quest bomb defuser. 
+After you unzip, you will get `defuse-me.webp` file. You will know why we call this quest bomb diffuser. 
 
 ##### *Quest2 diagram*
 ![diagram-2](./img/diagram-2.png)
