@@ -185,6 +185,13 @@ After finish writing the code, you can test the result using command below.
 python quest2-defuse-the-bomb/quest2.py
 ```
 
+If you can get the password, use `unzip` command to unzip `i-am-a-bomb.zip` file. You will prompt to input the password, then input the password you get from the result.
+```bash
+unzip quest2-defuse-the-bomb/i-am-a-bomb.zip
+```
+
+After you unzip, you will get `defuse-me.webp` file. You will know why we call this quest bomb defuser. 
+
 ##### *Quest2 diagram*
 ![diagram-2](./img/diagram-2.png)
 
