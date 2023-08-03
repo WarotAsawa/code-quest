@@ -1,17 +1,17 @@
-# Code Quest!
+# CodeQuest!
 
 ![codewhisperer](./img/cover.png)
 
-Welcome adventurers to the Code Quest ! You are an adventurer going on the quest to find some treasure and help some folks. The quest is quite challenging, but you got a companion named CodeWhisperer. You can use CodeWhisperer to help you conquest all the challenges coming ahead. You only have a weapons listed as below for your quest.
+Welcome adventurers to the CodeQuest ! You are an adventurer going on the quest to find some treasure and help some folks. The quest is quite challenging, but you got a companion named CodeWhisperer. You can use CodeWhisperer to help you conquest all the challenges coming ahead. You only have a weapons listed as below for your quest.
 
 - **Tool:** Visual Studio Code
 - **Companion:** CodeWhisperer
 
-You will be on quest, solving problems using AWS services. There are totol of 5 quests listed as below.
+You will be on quest, solving problems using AWS services. There are total of 5 quests listed as below.
 The quest is not in sequential order, so you can do any one first.
 
 - Quest 1: Shine bright like a diamond!
-- Quest 2: Bomb defuser
+- Quest 2: Bomb diffuser
 - Quest 3: How old is Mr. Shiba?
 - Quest 4: Translate alien's message
 - Quest 5: Hello World!
@@ -128,8 +128,7 @@ aws_secret_access_key= <please contact the author for key access>
 ```
 
 ## Sign-in to AWS Builder ID
-After install AWS Toolhit extension. Click on AWS icon and three dots, then select connect to AWS.
-
+After install AWS Toolkit extension. Click on AWS icon and three dots, then select connect to AWS.
 ![codewhisperer](./img/connectaws.png)
 
 Click on *AWS Builder ID* 
@@ -170,7 +169,7 @@ python quest1-shine-bright-like-a-diamond/quest1.py
 
 
 
-## Quest 2: Bomb defuser
+## Quest 2: Bomb diffuser
 
 ![bomb](./img/bomb.jpg)
 
@@ -227,7 +226,7 @@ You have encounter with an alien's spaceship. The alien send you the message whi
 ```json
 "{\"message\": \"aovmywo*~y*Mvyn*Nkƒ*B~r7B\"}"
 ```
-Your task is to translate what alien try to communicate. Luckly, we have a Lambda Function which can translate alien's message to human english. You can use Visual Studio Code to invoke Lambda function with message above to get the translated text. **Do not forget to decode the message to utf-8*
+Your task is to translate what alien try to communicate. Luckily, we have a Lambda Function which can translate alien's message to human english. You can use Visual Studio Code to invoke Lambda function with message above to get the translated text. **Do not forget to decode the message to utf-8*
 
 - **Lambda Function Name**: `alien-translator`
 - **AWS Region**: `ap-southeast-1`

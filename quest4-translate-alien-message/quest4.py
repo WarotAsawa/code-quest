@@ -1,4 +1,4 @@
 import boto3
 
-#Funtion to Invoke Lambda Function
+#Function to Invoke Lambda Function
 
